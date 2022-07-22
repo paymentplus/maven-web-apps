@@ -84,13 +84,7 @@
 		
 		<!-- provided dependencies -->
 
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<version>3.1.0</version>
-			<scope>provided</scope>
-		</dependency>
-		
+
 	</dependencies>
 	
 	<distributionManagement>
@@ -103,7 +97,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://3.87.124.208:8081/repository/paypal_uat_snapshot/</url>
+	      <url>http://3.87.124.208:8081/repository/paypal_uat_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
